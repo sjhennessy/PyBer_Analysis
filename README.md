@@ -9,6 +9,7 @@ The urban rides account for over two-thirds of the total rides (2375) at 68.4% c
 The urban drivers account for 80.9% of total drivers (2973) compared to 16.5% for suburban drivers and 2.6% for rural drivers.
 ### Total Fares
 Total urban fares account for 62.7% of the total fares ($63,538.64) compared to 30.5% for total suburban fares and 6.8% for total rural fares.
+https://github.com/sjhennessy/PyBer_Analysis/blob/master/analysis/Fig5.png
 ### Average Fare Per Ride
 The average rural fare per ride is the highest at $34.62 followed by the average suburban fare ($30.97) and average urban fare ($24.53).
 ### Average Fare Per Driver
