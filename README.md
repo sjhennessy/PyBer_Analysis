@@ -5,6 +5,7 @@ The purpose of the PyBer analysis is to study ride-sharing data (ride_data.csv a
 ## Results
 ### Total Rides
 The urban rides account for over two-thirds of the total rides (2375) at 68.4% compared to 26.3% for suburban rides and 5.3% for rural rides. 
+https://github.com/sjhennessy/PyBer_Analysis/blob/master/analysis/Fig6.png
 ### Total Drivers
 The urban drivers account for 80.9% of total drivers (2973) compared to 16.5% for suburban drivers and 2.6% for rural drivers.
 ### Total Fares
