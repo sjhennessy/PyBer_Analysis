@@ -16,7 +16,12 @@ The average rural fare per driver is the highest at $55.49 followed by the avera
 ### Weekly Fares Per City Type
 The weekly urban fares collected result in the highest revenue for PyBer with weekly fares of approximately $2000 over the time period of January 1, 2019 and April 29, 2019. The weekly suburban fares over the same time period are approximately $1000/week compared to the weekly rural fares of approximately $250/week. 
 
+https://github.com/sjhennessy/PyBer_Analysis/blob/master/analysis/Pyber_fare_summary.png
+
 ## Summary Addressing Disparities Among City Types
 ### Recommendation 1
+The average fare for rural drivers is $55.49 and 1.4 times more expensive than the suburban fare and 3.3 times more expensive than the urban fare. I suggest the rural drivers try to accomodate more than one paying rider to reduce the cost of each rider.
 ### Recomendation 2
+The number of rural rides is 5.3% of the total rides, but the average fare is high compared to the other city types.?? 
 ### Recommendation 3
+??
